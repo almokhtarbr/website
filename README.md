@@ -2,7 +2,7 @@
 
 > A Jekyll theme for serial programmers (-.-)
 
-[Live Demo](https://sharadcodes.github.io/jekyll-theme-serial-programmer/)
+
 
 ## Features
 
@@ -42,24 +42,3 @@ Hello everyone, If you have used this theme and if it has helped you in any way 
 
 You can use the sponsor button at the top or on the right.
 
-### [Github Sponsor Page](https://github.com/sponsors/sharadcodes)
-
-# Screenshots
-
-## PC BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_blog_dm.png)
-
-![Blog page light mode](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_blog_lm.png)
-
-## PC POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_post.png)
-
-## PHONE BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_blog.png)
-
-## PHONE POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_post.png)

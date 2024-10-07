@@ -4,7 +4,7 @@ markdown: kramdown
 # for atom feed
 author:
   name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  email: moktar.dev@gmail.com
 
 plugins:
   - jemoji
